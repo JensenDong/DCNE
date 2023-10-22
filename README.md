@@ -18,7 +18,7 @@ conda activate dcne
 
 ## Reproducing the best results
 
-Due to the size limit of supplementary material, we only provide the following datasets: WN18, WN18RR, FB15k, FB15k-237 and Countries. For path query answering datasets WordNet and Freebase, please run the following commands to download.
+The datasets for link prediction can be found in "LP/data" directory, including WN18, WN18RR, FB15k, FB15k-237 and Countries. For path query answering datasets WordNet and Freebase, please run the following commands to download.
 
 ```
 cd PQA
